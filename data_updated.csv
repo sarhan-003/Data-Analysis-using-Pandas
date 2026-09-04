@@ -1,0 +1,10 @@
+Actor,Film,Year,Genre,BoxOffice(INR Crore),IMDb
+Shah Rukh Khan,Pathaan,2023.0,Action,1050.0,7.2
+Aamir Khan,Dangal,2016.0,Biography,2024.0,8.4
+Ranveer Singh,Padmaavat,2018.0,Historical,585.0,7.0
+Ayushmann Khurrana,Andhadhun,2018.0,Thriller,111.0,8.3
+Rajkummar Rao,Stree,2018.0,Horror Comedy,180.0,7.5
+Hrithik Roshan,War,2019.0,Action,475.0,6.5
+Akshay Kumar,Good Newwz,2019.0,Comedy,318.0,7.0
+Varun Dhawan,Badrinath Ki Dulhania,2017.0,Romantic Comedy,201.0,6.1
+Vicky Kaushal,Uri: The Surgical Strike,2019.0,Action,342.0,8.2
