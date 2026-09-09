@@ -223,6 +223,7 @@ This repository is suitable for:
 * 🐍 Python developers
 * 📚 Anyone learning Pandas
 * 💼 Students building a Data Science portfolio
+* Improving analytical skills
 
 ---
 
