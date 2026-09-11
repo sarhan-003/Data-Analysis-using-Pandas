@@ -210,6 +210,7 @@ By completing this repository, you can develop practical knowledge of:
 * Dataset merging
 * Data reshaping
 * Working with real tabular datasets
+* Data refining using numpy and pandas
 
 ---
 
