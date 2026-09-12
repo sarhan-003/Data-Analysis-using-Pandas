@@ -21,6 +21,7 @@ The notebooks demonstrate how to:
 * Merge and join multiple datasets
 * Reshape data using Melt and Pivot
 * Perform practical data manipulation operations
+* Making data more refine and pure for csv using and easy for model
 
 The repository is especially useful for **students, beginners in Data Science, and Python developers** who want hands-on experience with Pandas.
 
